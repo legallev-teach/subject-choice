@@ -86,8 +86,8 @@ Each year, when the principal creates a new Google Form, the HTML file needs to 
 
 1. **Principal** creates the new Google Form (or copies the previous one)
 2. **Principal** generates a pre-filled link (instructions in the admin panel → Google Form tab) and verifies it using the built-in tool
-3. **Principal** sends the verified pre-filled link to Mr. Legall (the developer)
-4. **Developer** updates the `GOOGLE_FORM_URL` and `ENTRY_IDS` in the HTML file and sends the updated file back
+3. **Principal** sends the verified pre-filled link to the website maintainer
+4. **Website maintainer** updates the `GOOGLE_FORM_URL` and `ENTRY_IDS` in the HTML file and saves the updated file
 5. **Website maintainer** uploads the updated file to the server
 
 ---
